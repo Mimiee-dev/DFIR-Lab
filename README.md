@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# ୨୧ PINK DFIR LAB ୨୧
+# ୨୧ DFIR LAB ୨୧
 
 ### `digital forensics • incident response • evidence analysis`
 
