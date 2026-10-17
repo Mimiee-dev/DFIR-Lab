@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/DFIR-FF69B4?style=for-the-badge&logo=target&logoColor=white" />
 <img src="https://img.shields.io/badge/Autopsy-DB70B7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Wireshark-FF91D5?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/NIST-9D4EDD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SIFT-9D4EDD?style=for-the-badge" />
 
 *pretty in pink, serious about digital evidence ♡*
 
